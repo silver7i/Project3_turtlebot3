@@ -49,7 +49,7 @@ APP에서 송신하는 데이터를 bluetooth_waypoint로 보내기 - Project3_t
   </tr>
   <tr>
     <td colspan="2" align=center>
-      <img src="https://user-images.githubusercontent.com/77370836/224596940-4b87ff9f-50c3-4b59-bad4-ab3b9b408a2f.gif" width="550" height="300">
+      [![Video Label](http://img.youtu.be/vi/eJ0-CGWMrg8/0.jpg)](https://youtu.be/eJ0-CGWMrg8)
     </td>
   </tr>
 </table>
