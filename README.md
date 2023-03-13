@@ -24,10 +24,10 @@ APP에서 송신하는 데이터를 bluetooth_waypoint로 보내기 - Project3_t
   
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/77370836/224692546-ce31f34f-9563-4815-b7b1-38ea10c3dade.png" width="600" height="400">
+      <img src="https://user-images.githubusercontent.com/77370836/224692546-ce31f34f-9563-4815-b7b1-38ea10c3dade.png" width="600" height="300">
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/77370836/224692660-e935e5fe-21e5-4f27-a68a-4d9d803c0c78.png" width="500" height="300">
+      <img src="https://user-images.githubusercontent.com/77370836/224692660-e935e5fe-21e5-4f27-a68a-4d9d803c0c78.png" width="600" height="300">
     </td>
   </tr> 
  
