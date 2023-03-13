@@ -50,6 +50,7 @@ APP에서 송신하는 데이터를 bluetooth_waypoint로 보내기 - Project3_t
   <tr>
     <td colspan="2" align=center>
       [![Video Label](http://img.youtu.be/vi/eJ0-CGWMrg8/0.jpg)](https://youtu.be/eJ0-CGWMrg8)
+      <iframe width="550" height="300" src="https://youtu.be/eJ0-CGWMrg8"></iframe>
     </td>
   </tr>
 </table>
