@@ -1,5 +1,5 @@
 # Project3_turtlebot3
-
+<div sytle="text:10">
 마커 인식	- ros2_aruco / aruco_node.py <br>
 https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco <br>
 마커 앞으로 이동 - Project3_turtlebot3 / pub_tb3_pose2d.py <br>
@@ -7,7 +7,8 @@ https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco <br>
 마커 번호  	- Project3_turtlebot3 / track_marker5.py <br>
 목표지점 네비게이션 - Project3_turtlebot3 / bluetooth_waypoint.py <br>
 APP에서 송신하는 데이터를 bluetooth_waypoint로 보내기 - Project3_turtlebot3 / pub_goal_msg.py <br>
-
+</div>
+<div>
 <h5>주 역할</h5>
 - 소스코드 해석 및 내용 전달 <br>
 - 자료조사 <br>
@@ -17,7 +18,8 @@ APP에서 송신하는 데이터를 bluetooth_waypoint로 보내기 - Project3_t
 (turtlebot3 튜토리얼기반) <br>
 - SLAM / Navigation 알고리즘을 활용하여 map 제작 및 자율주행 제어 <br>
 - AR 마커 인식 프로그래밍 <br>
- 
+</div>
+
 <table>
   <tr>
     <th>
