@@ -49,7 +49,11 @@ APP에서 송신하는 데이터를 bluetooth_waypoint로 보내기 - Project3_t
   </tr>
   <tr>
     <td colspan="2" align=center>
+          
+          
       <iframe width="550" height="300" src="https://www.youtube.com/embed/eJ0-CGWMrg8" title="turtlebot3 프로젝트" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          
+          
     </td>
   </tr>
 </table>
