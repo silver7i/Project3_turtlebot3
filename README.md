@@ -11,8 +11,25 @@ APP에서 송신하는 데이터를 bluetooth_waypoint로 보내기 - Project3_t
 
 ![turtlebot3 프로젝트](https://user-images.githubusercontent.com/77370836/224596940-4b87ff9f-50c3-4b59-bad4-ab3b9b408a2f.gif)
 
-[구성도]<br>
-![image](https://user-images.githubusercontent.com/77370836/224692546-ce31f34f-9563-4815-b7b1-38ea10c3dade.png)
 
-[구현모습]<br>
-![image](https://user-images.githubusercontent.com/77370836/224692660-e935e5fe-21e5-4f27-a68a-4d9d803c0c78.png)
+<table>
+  <tr>
+    <th>
+      [구성도]
+    </th>
+    <th>
+      [구현모습]
+    </th>
+  </tr>
+  
+  <tr>
+    <td>
+      ![image](https://user-images.githubusercontent.com/77370836/224692546-ce31f34f-9563-4815-b7b1-38ea10c3dade.png)
+    </td>
+  </tr> 
+  <tr>
+    <td>
+      ![image](https://user-images.githubusercontent.com/77370836/224692660-e935e5fe-21e5-4f27-a68a-4d9d803c0c78.png)
+    </td>
+  </tr>  
+</table>
