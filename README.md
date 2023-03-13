@@ -11,13 +11,13 @@ APP에서 송신하는 데이터를 bluetooth_waypoint로 보내기 - Project3_t
 ---
 
 
-<h4>주 역할</h4>
+**** 주 역할
 - 소스코드 해석 및 내용 전달  
 - 자료조사  
 - 테스트 코드 작성  
 
-<h4>공통 역할</h4>
-(turtlebot3 튜토리얼기반)    
+**** 공통 역할
+  (turtlebot3 튜토리얼기반)  
 - SLAM / Navigation 알고리즘을 활용하여 map 제작 및 자율주행 제어  
 - AR 마커 인식 프로그래밍  
 
