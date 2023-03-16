@@ -1,4 +1,4 @@
-# Project3_turtlebot3
+# Project3_turtlebot3 (팀 프로젝트 - 4명)
     * 마커 인식        - ros2_aruco / aruco_node.py                  https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco
     * 마커 앞으로 이동 - Project3_turtlebot3 / pub_tb3_pose2d.py  
     * 이미지 토픽변경  - Project3_turtlebot3 / img_compressed2raw  
