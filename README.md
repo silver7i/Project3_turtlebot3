@@ -21,10 +21,18 @@
 - SLAM / Navigation 알고리즘을 활용하여 map 제작 및 자율주행 제어  
 - AR 마커 인식 프로그래밍  
 
----
+#### 기술 스택
+- Python
+- Linux( Ubuntu 20.04 / ROS2 / Raspberry Pi OS) / Arduino IDE  
 
-- 운영체제 - Linux( Ubuntu 20.04 / ROS2 / Raspberry Pi OS) / Arduino IDE
-- 사용언어 - Python
+#### 구현기술
+- Publisher, Subscriber로 topic을 발행시켜 여러 노드 간 값 전달
+- Action을 활용하여 데이터값 전달
+- SLAM 기능을 이용하여 지도 그리기
+- Navigation 기능을 통한 자율주행
+- Serial 통신을 활용한 Griper 제어
+- 블루투스 모듈을 사용하여 로봇제어
+
 ---
 <table>
   <tr>
